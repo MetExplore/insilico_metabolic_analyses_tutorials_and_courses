@@ -19,6 +19,10 @@ In this repo are listed all the public resources to learn how to proceed in sili
 
 - [EBAME tutorial on metabolic network reconstruction and modelling - from the individual to the community](https://gitlab.inria.fr/cfrioux/ebame)
 
+### Mapping
+
+- [IDMAGIC](https://forge.inrae.fr/mathieu.umec/idmagic)
+
 
 
 
