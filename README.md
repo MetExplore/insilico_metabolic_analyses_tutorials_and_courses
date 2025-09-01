@@ -11,7 +11,7 @@ In this repo are listed all the public resources to learn how to proceed in sili
 
 ### Flux Balance Analysis
 
-- [Introduction to flux balance analysis (protocols.io](https://www.protocols.io/view/introduction-to-flux-balance-analysis-fba-rm7vzjm7rlx1/v1)
+- [Introduction to flux balance analysis (protocols.io)](https://www.protocols.io/view/introduction-to-flux-balance-analysis-fba-rm7vzjm7rlx1/v1)
 - [Cobrapy notebook](https://notebook.community/JuBra/cobrapy/documentation_builder/simulating)
 - [Cobra matlab tutorial on ecoli_core](https://opencobra.github.io/cobratoolbox/stable/tutorials/tutorialEcoliCoreModel_part1.html)
 - [MetExplore 2 flux tutorial](https://metexplore.pages-forge.inrae.fr/metexplore-web/metexplore-training/docs/flux/)
